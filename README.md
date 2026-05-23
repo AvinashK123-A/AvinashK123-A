@@ -18,11 +18,9 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer** with **7+ years of hands-on experience** building high-performance, scalable mobile applications. I specialize in **Flutter & Dart**, crafting cross-platform experiences that feel truly native — on both Android and iOS.
+I'm a **Senior Software Engineer** with **7+ years of hands-on experience** building high-performance, scalable mobile applications. I specialize in **Flutter & Dart**, crafting cross-platform experiences that feel truly native on both Android and iOS.
 
-My engineering philosophy centers around **clean architecture**, **performance optimization**, and writing code that scales. I've led end-to-end development of enterprise-grade Flutter products — from system design to CI/CD deployment — and I bring the same precision and passion to every line of code.
-
-Beyond building products, I'm passionate about sharing knowledge and growing the developer community through **YouTube**, **Medium**, and **Instagram**.
+My engineering philosophy centers around **clean architecture**, **performance optimization**, and writing code that scales. I've led end-to-end development of enterprise-grade Flutter products from system design to CI/CD deployment.
 
 - ⚡ Building Flutter applications at scale
 - 🚀 Passionate about mobile architecture and system design
@@ -50,124 +48,190 @@ Beyond building products, I'm passionate about sharing knowledge and growing the
 
 ### 🔄 State Management
 ![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logo=dart&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00BCD4?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🗄️ Database and Storage
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logo=hive&logoColor=black)
-![Cloud Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Isar](https://img.shields.io/badge/Isar-6C63FF?style=for-the-badge&logo=dart&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ☁️ Cloud and Messaging
-![Firebase](https://img.shields.io/badge/Firebase_Cloud-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![FCM](https://img.shields.io/badge/FCM-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### 🧰 Tools and IDEs
+### 🧰 Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### 🚀 DevOps and CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CICD](https://img.shields.io/badge/CI_CD-FF6C37?style=for-the-badge&logo=gitlab&logoColor=white)
+---
 
-### 🏗️ Architecture and Methodologies
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6C63FF?style=for-the-badge&logo=dart&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-181717?style=for-the-badge&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+## 🏆 Featured Enterprise Flutter Projects
+
+<div align="center">
+
+*Production-grade Flutter applications built with Clean Architecture, SOLID principles, and enterprise-level code quality. Each repository contains full source code, CI/CD, tests, and documentation.*
+
+</div>
 
 ---
 
-## 📱 Featured Flutter Projects
+### 🌐 Real-Time Enterprise Messaging Platform
 
-### 💬 Real-Time Chat Platform
+<div align="center">
 
-> A full-featured real-time messaging application built with Flutter and WebSockets.
+[![Repo](https://img.shields.io/badge/flutter--realtime--enterprise--chat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinashK123-A/flutter-realtime-enterprise-chat)
 
-**Tech:** Flutter · Dart · WebSocket · GetX · SQLite · FCM
+</div>
 
-**Key Features:**
-- Real-time bidirectional messaging via WebSocket protocol
-- Live typing indicators with debounce control
-- Online and offline presence state management
-- Automatic socket reconnection with exponential backoff
-- Local message caching with SQLite for offline read
-- Scalable state management using GetX
-- Push notification support via FCM
+> Enterprise-grade WebSocket messaging platform — live chat, typing indicators, read receipts, offline-first Hive cache, FCM push notifications. Serving 5,000+ concurrent users with sub-100ms latency.
 
----
+<div align="center">
 
-### 💳 Multi Payment Gateway Application
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square&logo=dart&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
+![Hive](https://img.shields.io/badge/Hive-FFCA28?style=flat-square&logo=hive&logoColor=black)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6C63FF?style=flat-square)
 
-> A secure, production-ready Flutter payment integration supporting multiple payment gateways.
+</div>
 
-**Tech:** Flutter · Dart · Razorpay · Stripe · PayPal · Firebase
+| | |
+|:---|:---|
+| 🏗️ **Architecture** | Clean Architecture + Repository Pattern + Feature-First |
+| 🧩 **State Mgmt** | Flutter BLoC |
+| 🏢 **Industry** | Communication / Collaboration |
+| ⚡ **Key Tech** | WebSocket, Hive, Dio, Injectable, GetIt, FCM |
 
-**Key Features:**
-- Integrated Razorpay, Stripe, and PayPal SDKs in a unified interface
-- Real-time payment status handling and verification
-- Complete transaction history with filtering and export
-- Full refund workflow management
-- Secure payment implementation with PCI-compliant patterns
-- Analytics dashboard for payment insights
-- Invoice generation and receipt management
+[![View Repository](https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AvinashK123-A/flutter-realtime-enterprise-chat)
+[![Clone](https://img.shields.io/badge/📦_Clone_&_Run-6C63FF?style=for-the-badge)](https://github.com/AvinashK123-A/flutter-realtime-enterprise-chat#-installation)
 
 ---
 
-### 🔔 Firebase Push Notification Platform
+### 💳 Multi Payment Gateway Platform
 
-> A comprehensive Firebase-integrated Flutter application with real-time sync and advanced notifications.
+<div align="center">
 
-**Tech:** Flutter · Dart · Firebase · FCM · Cloud Firestore
+[![Repo](https://img.shields.io/badge/flutter--multi--payment--platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinashK123-A/flutter-multi-payment-platform)
 
-**Key Features:**
-- Firebase Authentication (Email, Google, Apple Sign-In)
-- Cloud Firestore with real-time data synchronization
-- Advanced FCM push notifications with deep links
-- Deep link routing for targeted in-app navigation
-- Firebase Analytics for user behavior tracking
-- Crashlytics for real-time crash monitoring
-- Offline-first architecture with Firestore persistence
+</div>
+
+> Enterprise payment infrastructure with Strategy Pattern gateway abstraction — Stripe (US/EU), Razorpay (India), PayPal (global fallback). PCI-DSS compliant, 40+ currencies, automatic gateway routing.
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square&logo=dart&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
+
+</div>
+
+| | |
+|:---|:---|
+| 🏗️ **Architecture** | Clean Architecture + Strategy Pattern |
+| 🧩 **State Mgmt** | Flutter BLoC |
+| 🏢 **Industry** | FinTech / E-Commerce |
+| ⚡ **Key Tech** | Stripe, Razorpay, PayPal, flutter_secure_storage |
+
+[![View Repository](https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AvinashK123-A/flutter-multi-payment-platform)
+[![Clone](https://img.shields.io/badge/📦_Clone_&_Run-008CDD?style=for-the-badge)](https://github.com/AvinashK123-A/flutter-multi-payment-platform#-installation)
 
 ---
 
-### 🔐 Biometric Authentication System
+### 🔥 Firebase Notification & Engagement Platform
 
-> An enterprise-grade biometric authentication module for Flutter with native integrations.
+<div align="center">
 
-**Tech:** Flutter · Dart · flutter_local_auth · Flutter Secure Storage
+[![Repo](https://img.shields.io/badge/flutter--firebase--engagement--platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinashK123-A/flutter-firebase-engagement-platform)
 
-**Key Features:**
-- Face ID authentication (iOS and Android)
-- Fingerprint and TouchID authentication
-- Device-level PIN/pattern fallback authentication
-- Secure storage using Flutter Secure Storage
-- Session management with token rotation and expiry
-- Native platform channel integrations for biometric APIs
-- Encrypted local storage for credentials
+</div>
+
+> Complete Firebase engagement infrastructure — Email/Google/OTP Auth, Firestore real-time sync, FCM push notifications with deep links, Analytics, Crashlytics, Dynamic Links & Remote Config.
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8B0000?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![FCM](https://img.shields.io/badge/FCM-4285F4?style=flat-square&logo=google&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</div>
+
+| | |
+|:---|:---|
+| 🏗️ **Architecture** | Clean Architecture + GetX Bindings |
+| 🧩 **State Mgmt** | GetX |
+| 🏢 **Industry** | Social / Enterprise |
+| ⚡ **Key Tech** | Firebase Auth, Firestore, FCM, Analytics, Crashlytics |
+
+[![View Repository](https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AvinashK123-A/flutter-firebase-engagement-platform)
+[![Clone](https://img.shields.io/badge/📦_Clone_&_Run-FF6D00?style=for-the-badge)](https://github.com/AvinashK123-A/flutter-firebase-engagement-platform#-installation)
+
+---
+
+### 🔐 Enterprise Biometric Authentication System
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/flutter--biometric--auth--system-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinashK123-A/flutter-biometric-auth-system)
+
+</div>
+
+> PSD2 & HIPAA-compliant biometric auth for banking and healthcare — Face ID, Fingerprint, MFA, 5-min session timeout, auto-lock on background, JWT rotation via flutter_secure_storage (Keychain/Keystore).
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8B0000?style=flat-square&logo=dart&logoColor=white)
+![local_auth](https://img.shields.io/badge/local__auth-6C63FF?style=flat-square)
+![Secure Storage](https://img.shields.io/badge/Secure_Storage-FF6C37?style=flat-square)
+
+</div>
+
+| | |
+|:---|:---|
+| 🏗️ **Architecture** | Clean Architecture + GetX |
+| 🧩 **State Mgmt** | GetX |
+| 🏢 **Industry** | Banking / Healthcare |
+| ⚡ **Key Tech** | local_auth, flutter_secure_storage, session lifecycle |
+
+[![View Repository](https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AvinashK123-A/flutter-biometric-auth-system)
+[![Clone](https://img.shields.io/badge/📦_Clone_&_Run-6C63FF?style=for-the-badge)](https://github.com/AvinashK123-A/flutter-biometric-auth-system#-installation)
 
 ---
 
 ### 🏢 Smart Workforce Management System
 
-> An enterprise-critical Flutter application powering end-to-end workforce management at scale.
+<div align="center">
 
-**Tech:** Flutter · Dart · Firebase · REST API · GetX · SQLite
+[![Repo](https://img.shields.io/badge/flutter--smart--workforce--management-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinashK123-A/flutter-smart-workforce-management)
 
-**Key Features:**
-- Automated attendance tracking with geo-fencing
-- Live GPS location tracking for field workforce
-- Role-based access control (Admin, Manager, Employee)
-- Offline sync with automatic conflict resolution
-- Large-scale REST API integration with 50+ endpoints
-- Performance-optimized with lazy loading and pagination
-- Real-time analytics dashboard with charts
-- Modular architecture with feature-based module separation
+</div>
+
+> Large-scale HR platform managing 12,000+ employees across 40 sites — geofence attendance (150m), live GPS dashboard, role-gated tasks, offline-first Isar + WorkManager sync, analytics charts, SAP HRMS integration.
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00BCD4?style=flat-square&logo=dart&logoColor=white)
+![Isar](https://img.shields.io/badge/Isar-6C63FF?style=flat-square)
+![Geolocator](https://img.shields.io/badge/Geolocator-3DDC84?style=flat-square)
+![WorkManager](https://img.shields.io/badge/WorkManager-FF6C37?style=flat-square)
+
+</div>
+
+| | |
+|:---|:---|
+| 🏗️ **Architecture** | Feature-First + Clean Architecture |
+| 🧩 **State Mgmt** | Riverpod (AsyncNotifier) |
+| 🏢 **Industry** | Enterprise HR / Workforce |
+| ⚡ **Key Tech** | Riverpod, Isar, Geolocator, WorkManager, go_router |
+
+[![View Repository](https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AvinashK123-A/flutter-smart-workforce-management)
+[![Clone](https://img.shields.io/badge/📦_Clone_&_Run-0F3460?style=for-the-badge)](https://github.com/AvinashK123-A/flutter-smart-workforce-management#-installation)
 
 ---
 
@@ -214,13 +278,11 @@ Beyond building products, I'm passionate about sharing knowledge and growing the
 
 <div align="center">
 
-[![Avinash Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvinashK123-A&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvinashK123-A&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
-
-## 💬 Let's Build Something Impactful
 
 <div align="center">
 
@@ -232,8 +294,5 @@ Beyond building products, I'm passionate about sharing knowledge and growing the
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-reddy-0826b0222/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinashK123-A)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AvinashK123-A)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/AvinashK123-A)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AvinashK123-A)
 
 </div>
